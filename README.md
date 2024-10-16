@@ -1,4 +1,5 @@
 # Excel-projects
+
 # 1. Call Centre Excel Dashboard Portfolio Project
 
 This project demonstrates my proficiency in building a fully interactive and visually appealing dashboard using Excel's advanced features. The dashboard is designed for data-driven insights with smooth interactivity and polished aesthetics. Key aspects of the project include:
@@ -12,16 +13,10 @@ This project demonstrates my proficiency in building a fully interactive and vis
 - **Conditional Formatting:** Applied advanced conditional formatting to tables and charts to highlight key insights.  
 - **Dynamic Images with XLOOKUP:** Incorporated XLOOKUP to display images that update dynamically based on user input or filters.  
 
+
+ ![image alt](https://github.com/22TAUSIF/Excel-projects/blob/e66f83d1bc37e76cf141febb3d062419c66f9f25/Screenshot%20Excel%20complete%20Dashboard%20Project%20chandoo%2016-10-2024.png)
+
 This project highlights my expertise in Excel, including **data modeling, dashboard development, Power Pivot, DAX, and advanced charting** techniques.
-
-
- ![image alt](
-
-
-
-
-
-
 
 
 
