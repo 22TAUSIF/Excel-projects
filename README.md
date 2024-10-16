@@ -25,7 +25,7 @@ This project highlights my expertise in Excel, including **data modeling, dashbo
 The objective of the report - 
 Vrinda store wants to create an annual sales report for 2022. so that, Vrinda can understand their customers and get more sales in 2023.
 
-##Sample Questions
+## Sample Questions
   1. Compare the sales and orders using a single chart.
   2. which month got the highest sales and orders.
   3. who purchased more- men or women in 2022.
@@ -45,7 +45,6 @@ Vrinda store wants to create an annual sales report for 2022. so that, Vrinda ca
  1. Target women customers of the age group (30-49 yrs) living in Maharashtra, Karnataka, and Uttar Pradesh by showing Google ads/offers/coupons available on Amazon, 
     Flipkart and Myntra.
 
-
-In this project, I learned data cleaning, processing, analysis, and dashboard creation in Excel. I also completed a data analytics project for data analysts in Excel.
+  In this project, I learned data cleaning, processing, analysis, and dashboard creation in Excel. I also completed a data analytics project for data analysts in Excel.
 
  ![image alt](https://github.com/22TAUSIF/Excel-projects/blob/b397dc35cd9b49343480c79ab01e8e76fdb3846c/Screenshot%20%20Vrinda%20Store%20Data%20Analysis..png)
