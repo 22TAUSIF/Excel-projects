@@ -1,12 +1,40 @@
 # Excel-projects
 
-# 1. Call Centre Excel Dashboard Portfolio Project
+# 1. Real-time Blinkit grocery data analysis
+
+Project Execution Overview
+I have successfully led the end-to-end execution of a data-driven project, focusing on extracting valuable insights and creating actionable dashboards. 
+
+The key steps included are-
+
+1. Requirement Gathering: Collaborated with clients to understand business needs.  
+
+2. Stakeholder Identification: Mapped all key stakeholders to ensure alignment.  
+
+3. Data Cleaning: Processed raw data to ensure accuracy and consistency.  
+
+4. Data Processing: Customized datasets by adding calculated columns for better insights.  
+
+5. Data Analysis: Utilized Pivot Tables and Excel functions for deep data analysis.  
+
+6. Data Visualization: Created charts and custom reports to present findings.  
+
+7. Dashboard/Report Creation: Developed dashboards and comprehensive reports from scratch, offering valuable insights to stakeholders.  
+
+I am Proficient in tools like Excel, Power BI, Tableau, SQL, Python, and MongoDB, and am passionate about delivering data solutions that align with business objectives.  
+
+ ![image alt]
+
+
+
+
+# 2. Call Centre Excel Dashboard Portfolio Project
 
 This project demonstrates my proficiency in building a fully interactive and visually appealing dashboard using Excel's advanced features. The dashboard is designed for data-driven insights with smooth interactivity and polished aesthetics. Key aspects of the project include:
 
 ## Project Highlights
 - **Dashboard Design:** Customized color themes and fonts to enhance visual appeal and usability.  
-- **Data Model Integration:** Leveraged Excel's Data Model to seamlessly connect and manage multiple datasets.  
+- **Data Model Integration:** Leveraged Excel's Data Model to connect and manage multiple datasets seamlessly.  
 - **KPI & Measure Creation:** Created Key Performance Indicators (KPIs) and measures using Power Pivot and DAX formulas for deeper analytics.  
 - **Pivot Table Calculations:** Utilized Pivot Tables to handle all major calculations efficiently.  
 - **Interactive Visuals:** Developed dynamic Pivot Charts with slicers for user-friendly interaction.  
@@ -20,19 +48,19 @@ This project highlights my expertise in Excel, including **data modeling, dashbo
 
 
 
-# 2. Vrinda Store Data Analysis project
+# 3. Vrinda Store Data Analysis project
 
 The objective of the report - 
 Vrinda store wants to create an annual sales report for 2022. so that, Vrinda can understand their customers and get more sales in 2023.
 
 ## Sample Questions
   1. Compare the sales and orders using a single chart.
-  2. which month got the highest sales and orders.
+  2. Which month had the highest sales and orders?
   3. who purchased more- men or women in 2022.
   4. what are the different order statuses in 2022?
   5. list the top 10 states contributing to the sales.
   6. Relation between age and gender based on number of orders.
-  7. which channel is contributing to maximum sales.
+  7. Which channel contributes to maximum sales?
   8. Highest selling category.
 
 ## Sample Insights
