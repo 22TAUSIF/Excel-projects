@@ -23,9 +23,7 @@ The key steps included are-
 
 I am Proficient in tools like Excel, Power BI, Tableau, SQL, Python, and MongoDB, and am passionate about delivering data solutions that align with business objectives.  
 
- ![image alt]
-
-
+ ![image alt](https://github.com/22TAUSIF/Excel-projects/blob/03d14e1768f04c37cbb48ca1bf5a9c1f98db73ca/Screenshot%20Blinkit%20Analysis%20project%20-3%20oct%2023.png)
 
 
 # 2. Call Centre Excel Dashboard Portfolio Project
